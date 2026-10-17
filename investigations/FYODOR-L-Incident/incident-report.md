@@ -123,7 +123,7 @@ The use of `-enc` supports investigating obfuscation but does not independently 
 
 #### G. Evidence Reference
 
-![Suspicious PowerShell execution on FYODOR-L](screenshots/01-powershell.png)
+![Suspicious PowerShell execution on FYODOR-L](investigations/FYODOR-L-Incident/screenshots)
 
 **Figure 1.** Splunk search results showing encoded PowerShell execution, hidden execution parameters, and registry references on FYODOR-L.
 
